@@ -26,7 +26,7 @@ Exercicios referendes aos algoritmos de Dijkstra e Prim
 ## Uso 
 Rodar o arquivo .py de cada questão e adicionar os valores no terminal
 ## Outros 
-Video: https://youtu.be/bKFlgpsk4ao
+Video: https://youtu.be/bKFlgpsk4ao<br>
 Upei o repositório fora da organização, link da primeira entrega https://github.com/LimirioGuimaraes/Grafos2-_Exercicios-
 
 
